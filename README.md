@@ -21,8 +21,8 @@ Data is stored in `localStorage` to simulate a backend.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
-   cd url-shortener
+   git clone https://github.com/AhamadAlii/2201640100034.git
+   cd 2201640100034
    ```
 2. Install dependencies:
    ```bash
